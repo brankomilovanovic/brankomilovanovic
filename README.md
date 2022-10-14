@@ -5,9 +5,11 @@
 [![E-Mail](https://img.shields.io/badge/-brankomilovanovic2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brankomilovanovic2000@gmail.com)](mailto:rafaelcodomingues@gmail.com)
 ![](https://komarev.com/ghpvc/?username=brankomilovanovic)
 
-I am currently a 4th year student at Singidunum University, majoring in Software and Information Engineering.<br>
-Born on 15.01.2000 in Loznica, current place of residence is Novi Sad.<br>
-Ambitious, hard-working, team player, ready for challenges and acquiring new knowledge.
+👨‍💻 Student of Software Engineering<br>
+⚡ Skills: **Java, Spring-Boot, Android, Angular, MySQL, SQLite, Python, PyQt**<br>
+💜 Interests: Games 🎮, Music 🎵, Movies & Series 🎬<br>
+👋🏻 Feel free to get in touch!
+
 <hr>
 
 ### Check out my GitHub repository 💻
