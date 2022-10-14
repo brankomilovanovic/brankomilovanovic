@@ -1,20 +1,18 @@
 <h1>Hi, I'm Branko👋</h1>
+
+[![LinkedIn](https://img.shields.io/badge/-Branko_Milovanovic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/branko-milovanovic/)](https://www.linkedin.com/in/branko-milovanovic)
+[![LinkedIn](https://img.shields.io/badge/-Branko_Milovanovic-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/branko_milovanovic_/)](https://www.instagram.com/branko_milovanovic_/)
+[![E-Mail](https://img.shields.io/badge/-brankomilovanovic2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brankomilovanovic2000@gmail.com)](mailto:rafaelcodomingues@gmail.com)
+![](https://komarev.com/ghpvc/?username=brankomilovanovic)
+
 I am currently a 4th year student at Singidunum University, majoring in Software and Information Engineering.<br>
 Born on 15.01.2000 in Loznica, current place of residence is Novi Sad.<br>
 Ambitious, hard-working, team player, ready for challenges and acquiring new knowledge.
 <hr>
 
-### Social 📱
-- [LinkedIn](https://www.linkedin.com/in/branko-milovanovic)
-- [Instagram](https://www.instagram.com/branko_milovanovic_)
-- brankomilovanovic2000@gmail.com
-
-<hr>
-
 ### Check out my GitHub repository 💻
 
-<!-- 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
