@@ -12,7 +12,7 @@
 
 <hr>
 
-### Check out my GitHub repository 💻
+### Check out my repository 💻
 
 <!-- Here are some ideas to get you started:
 
