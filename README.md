@@ -5,7 +5,7 @@
 [![E-Mail](https://img.shields.io/badge/-brankomilovanovic2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brankomilovanovic2000@gmail.com)](mailto:rafaelcodomingues@gmail.com)
 
 👨‍💻 Software developer<br>
-⚡ Skills: **React, C#.NET,  PHP Symfony, Node.js, Spring-Boot, Android, Angular, MongoDB, MySQL, SQLite, Python, PyQt**<br>
+⚡ Skills: **React, Angular, C#.NET, PHP Symfony, Node.js, Spring-Boot, Android, MongoDB, MySQL, SQLite, Python, PyQt**<br>
 💜 Interests: Games 🎮, Music 🎵, Movies & Series 🎬<br>
 👋🏻 Feel free to get in touch!
 
