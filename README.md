@@ -4,8 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/-Branko_Milovanovic-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/branko_milovanovic_/)](https://www.instagram.com/branko_milovanovic_/)
 [![E-Mail](https://img.shields.io/badge/-brankomilovanovic2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brankomilovanovic2000@gmail.com)](mailto:rafaelcodomingues@gmail.com)
 
-👨‍💻 Student of Software Engineering<br>
-⚡ Skills: **Java, Spring-Boot, Android, Angular, MySQL, SQLite, Python, PyQt**<br>
+👨‍💻 Software developer<br>
+⚡ Skills: **React, C#.NET,  PHP Symfony, Node.js, Spring-Boot, Android, Angular, MongoDB, MySQL, SQLite, Python, PyQt**<br>
 💜 Interests: Games 🎮, Music 🎵, Movies & Series 🎬<br>
 👋🏻 Feel free to get in touch!
 
