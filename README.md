@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Branko_Milovanovic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/branko-milovanovic/)](https://www.linkedin.com/in/branko-milovanovic)
 [![Instagram](https://img.shields.io/badge/-Branko_Milovanovic-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/branko_milovanovic_/)](https://www.instagram.com/branko_milovanovic_/)
-[![E-Mail](https://img.shields.io/badge/-brankomilovanovic2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brankomilovanovic2000@gmail.com)](mailto:rafaelcodomingues@gmail.com)
+[![E-Mail](https://img.shields.io/badge/-brankomilovanovic2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brankomilovanovic2000@gmail.com)](mailto:brankomilovanovic2000@gmail.com)
 
 👨‍💻 Software developer<br>
 ⚡ Skills: **React, Angular, C#.NET, PHP Symfony, Node.js, Spring-Boot, Android, MongoDB, MySQL, SQLite, Python, PyQt**<br>
