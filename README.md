@@ -4,9 +4,9 @@
 [![Instagram](https://img.shields.io/badge/-Branko_Milovanovic-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/branko_milovanovic_/)](https://www.instagram.com/branko_milovanovic_/)
 [![E-Mail](https://img.shields.io/badge/-brankomilovanovic2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brankomilovanovic2000@gmail.com)](mailto:brankomilovanovic2000@gmail.com)
 
-👨‍💻 Software developer<br>
-⚡ Skills: **React, Angular, C#.NET, PHP Symfony, Node.js, Spring-Boot, Android, MongoDB, MySQL, SQLite, Python, PyQt**<br>
-💜 Interests: Games 🎮, Music 🎵, Movies & Series 🎬<br>
+👨‍💻 Full Stack Software Developer<br>
+⚡ Skills: **React, React Native, Angular, SCSS, C#.NET, PHP Symfony, Node.js, Java Spring-Boot, Python, PyQt, Java Android, MongoDB, MySQL, SQLite**<br>
+💜 Interests: Games 🎮, Music 🎵, Movies & Series 🎬, Gym 💪🏼<br>
 👋🏻 Feel free to get in touch!
 
 <hr>
